@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "612122179074",
+    "project_id": "generalinventory-2968f",
+    "storage_bucket": "generalinventory-2968f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612122179074:android:c93bf52b70b58a935d591b",
+        "android_client_info": {
+          "package_name": "monster.donjabonoso.generalinventory"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8RcKJdTxzHz7rJMTVYh8XyPlVGKV-14I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
