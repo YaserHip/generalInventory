@@ -1,6 +1,8 @@
 package monster.donjabonoso.generalinventory.domain.repository
 
-interface AuthRepository {
+import com.google.firebase.auth.FirebaseUser
 
-    suspend fun signInWithEmail(email:String, password:String)
+interface AuthRepository {
+    suspend fun signInWithEmail(email:String, password:String): FirebaseUser
+    suspend fun signOut(): Boolean
 }
